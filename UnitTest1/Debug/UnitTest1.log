@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Admin\source\repos\5.1d\5.1d\Money.cpp(226): warning C4715: 'operator/': not all control paths return a value
+     Creating library C:\Users\Admin\source\repos\5.1d\Debug\UnitTest1.lib and object C:\Users\Admin\source\repos\5.1d\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Admin\source\repos\5.1d\Debug\UnitTest1.dll

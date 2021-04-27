@@ -1,0 +1,7 @@
+﻿  Money.cpp
+  MyException.cpp
+  Pair.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\Admin\source\repos\5.1d\5.1d\Money.cpp(226): warning C4715: 'operator/': not all control paths return a value
+  5.1d.vcxproj -> C:\Users\Admin\source\repos\5.1d\Debug\5.1d.exe
